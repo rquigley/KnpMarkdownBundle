@@ -27,7 +27,7 @@ class Light extends MarkdownParser
         'code_block' => false,
         'auto_link' => true,
         'auto_mailto' => false,
-        'entities' => false
+        'entities' => true
     );
 
 }
